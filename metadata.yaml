@@ -1,0 +1,32 @@
+_repo: The-long-trail-A-story-of-African-adventure_68440
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Evison, H.
+    gutenberg_agent_id: '35392'
+    url: http://www.gutenberg.org/2009/agents/35392
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Herbert_Strang
+    - http://www.gutenberg.org/ebooks/author/39124
+description: ''
+gutenberg_issued: '2022-07-01'
+identifiers:
+  gutenberg: '68440'
+language: en
+pgterms:marc905: 20220608202545strang
+pgterms:marc906: '1919'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: United Kingdom :Humphrey Milford--Oxford University Press,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The long trail: A story of African adventure'
+url: http://www.gutenberg.org/ebooks/68440
