@@ -5,6 +5,9 @@ contributor:
     agent_name: Evison, H.
     gutenberg_agent_id: '35392'
     url: http://www.gutenberg.org/2009/agents/35392
+covers:
+- cover_type: archival
+  image_path: 68440-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Strang, Herbert
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Herbert_Strang
     - http://www.gutenberg.org/ebooks/author/39124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68440#The-long-trail-A-story-of-African-adventure
 gutenberg_issued: '2022-07-01'
 identifiers:
   gutenberg: '68440'
